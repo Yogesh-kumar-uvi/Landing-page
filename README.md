@@ -1,2 +1,2 @@
 # Landing-page
-I am created a landing using HTML,CSS,JAVASCRIPT.
+I created a landing using HTML,CSS,JAVASCRIPT.
